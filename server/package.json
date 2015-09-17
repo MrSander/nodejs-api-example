@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-api-example",
+  "version": "1.0.0",
+  "description": "This is a simple API server",
+  "main": "api_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Poddubny",
+  "license": "Apache License 2.0"
+}
