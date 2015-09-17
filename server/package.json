@@ -11,8 +11,7 @@
   "license": "Apache License 2.0",
   "dependencies": {
       "express": "*",
-      "mongodb": "*",
-      "ejs": "*"
+      "body-parser": "*"
   },
   "engine": {
     "node": "*",
