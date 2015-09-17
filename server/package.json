@@ -4,8 +4,23 @@
   "description": "This is a simple API server",
   "main": "api_server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alexander Poddubny",
-  "license": "Apache License 2.0"
+  "license": "Apache License 2.0",
+  "dependencies": {
+      "express": "*",
+      "mongodb": "*",
+      "ejs": "*"
+  },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrSander/nodejs-api-example.git"
+  }
+
 }
